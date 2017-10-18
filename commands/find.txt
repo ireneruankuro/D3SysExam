@@ -1,0 +1,4 @@
+./commands/bottom.txt
+./commands/desktopls.txt
+./commands/find.txt
+./commands/top.txt
